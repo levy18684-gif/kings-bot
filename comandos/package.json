@@ -1,0 +1,15 @@
+{
+  "name": "kings-bot",
+  "version": "2.0.0",
+  "description": "WhatsApp Bot do BN_157",
+  "main": "Index.js",
+  "scripts": {
+    "start": "node Index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "pino": "^8.19.0",
+    "readline": "^1.3.0"
+  }
+}
+
